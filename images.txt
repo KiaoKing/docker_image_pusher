@@ -8,3 +8,4 @@ tomcat
 alpine
 gitlab/gitlab-ce
 gitlab/gitlab-ee
+jpillora/dnsmasq
