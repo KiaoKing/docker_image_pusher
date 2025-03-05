@@ -7,3 +7,4 @@ xhofe/alist:latest
 tomcat
 alpine
 gitlab/gitlab-ce
+gitlab/gitlab-ee
