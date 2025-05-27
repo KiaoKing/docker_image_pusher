@@ -9,3 +9,4 @@ alpine
 gitlab/gitlab-ce
 gitlab/gitlab-ee
 jpillora/dnsmasq
+registry.gitlab.cn/omnibus/gitlab-jh:latest
