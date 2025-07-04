@@ -10,3 +10,4 @@ gitlab/gitlab-ce
 gitlab/gitlab-ee
 jpillora/dnsmasq
 registry.gitlab.cn/omnibus/gitlab-jh:latest
+ghcr.io/p0n1/epub_to_audiobook:latest
