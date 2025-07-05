@@ -1,14 +1,15 @@
-nginx
+#nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-tomcat
-alpine
-gitlab/gitlab-ce
-gitlab/gitlab-ee
-jpillora/dnsmasq
-registry.gitlab.cn/omnibus/gitlab-jh:latest
-ghcr.io/advplyr/audiobookshelf:latest
-ghcr.io/p0n1/epub_to_audiobook:latest
+#--platform=linux/arm64 xiaoyaliu/alist
+#tomcat
+#alpine
+#gitlab/gitlab-ce
+#gitlab/gitlab-ee
+#jpillora/dnsmasq
+#registry.gitlab.cn/omnibus/gitlab-jh:latest
+#ghcr.io/advplyr/audiobookshelf:latest
+#ghcr.io/p0n1/epub_to_audiobook:latest
+talebook/talebook
