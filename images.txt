@@ -13,4 +13,5 @@
 #ghcr.io/advplyr/audiobookshelf:latest
 #ghcr.io/p0n1/epub_to_audiobook:latest
 #talebook/talebook
-ghcr.io/cxfksword/douban-api-rs
+#ghcr.io/cxfksword/douban-api-rs
+ghcr.io/open-webui/open-webui:main
