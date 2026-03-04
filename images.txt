@@ -15,4 +15,5 @@
 #talebook/talebook
 #ghcr.io/cxfksword/douban-api-rs
 #ghcr.io/open-webui/open-webui:main
-ghcr.io/trugamr/wol:latest
+#ghcr.io/trugamr/wol:latest
+openclaw/openclaw:latest
