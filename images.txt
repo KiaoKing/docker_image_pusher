@@ -17,4 +17,5 @@
 #ghcr.io/open-webui/open-webui:main
 #ghcr.io/trugamr/wol:latest
 ghcr.io/openclaw/openclaw:latest
-#ghcr.io/python:3.9-slim:latest
+#ghcr.io/python:3.9-slim
+#docker.io/library/python:3.9-slim
