@@ -20,4 +20,5 @@
 #ghcr.io/python:3.9-slim
 #docker.io/library/python:3.9-slim
 redis:alpine
-ghcr.io/joeferner/http-redis-bridge:latest
+#ghcr.io/joeferner/http-redis-bridge:latest
+
