@@ -21,5 +21,6 @@
 #docker.io/library/python:3.9-slim
 #redis:alpine
 #ghcr.io/joeferner/http-redis-bridge:latest
-postgres:15 
+#postgres:15
+node:20-alpine
 
